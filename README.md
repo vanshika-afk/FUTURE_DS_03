@@ -76,6 +76,6 @@ Analyzing feedback from college events to generate actionable insights using Nat
     <li><a href="https://github.com/vanshika-afk/FUTURE_DS_03/blob/ab8d59bb3c97e4f708431b2776767728ddfe9be5/college_event_feedback.csv">College event feedback</a>- CSV File</li>
 </ul>
 <hr>
-<h2>🔗 LinkedIn Post:<a href="">Future Intern Task 3</a></h2>
+<h2>🔗 LinkedIn Post:<a href="https://www.linkedin.com/posts/vanshika-dabla-1709a8273_futureinterns-feedback-analysis-activity-7359525817011351553-Ran4">Linkedinn</a></h2>
 <hr>
 <h3>🙏 Big thanks to the Future Interns team for this opportunity to work on real, meaningful projects and level up my skills!</h3>
