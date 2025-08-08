@@ -1,0 +1,101 @@
+Respondent ID,Event Attended,Overall Satisfaction (1-5),Organization Rating (1-5),Content Rating (1-5),Speaker/Host Rating (1-5),Would Recommend (Yes/No),Additional Comments
+1,Cultural Night,4,5,4,5,No,Could be better organized.
+2,Workshop,5,4,5,4,No,Loved the speaker!
+3,Cultural Night,1,3,5,5,Yes,Could be better organized.
+4,Tech Fest,1,4,2,5,No,Loved the speaker!
+5,Cultural Night,4,2,4,4,No,Could be better organized.
+6,Tech Fest,1,4,3,5,Yes,Could be better organized.
+7,Sports Meet,2,2,5,1,No,Average experience.
+8,Guest Lecture,3,1,3,4,No,Great event!
+9,Guest Lecture,1,1,1,3,Yes,Could be better organized.
+10,Cultural Night,1,5,2,1,Yes,Average experience.
+11,Workshop,5,3,1,3,No,Too crowded.
+12,Cultural Night,4,3,5,5,No,Could be better organized.
+13,Cultural Night,2,2,5,2,No,Loved the speaker!
+14,Tech Fest,1,1,5,4,No,Could be better organized.
+15,Workshop,2,1,4,1,No,Not satisfied.
+16,Workshop,3,4,2,2,Yes,Could be better organized.
+17,Guest Lecture,3,5,1,1,No,Great event!
+18,Sports Meet,3,2,4,4,Yes,Loved the speaker!
+19,Tech Fest,3,4,2,1,Yes,Could be better organized.
+20,Guest Lecture,5,2,5,5,No,Too crowded.
+21,Tech Fest,2,5,2,5,Yes,Could be better organized.
+22,Tech Fest,5,3,1,1,No,Loved the speaker!
+23,Guest Lecture,3,2,5,5,No,Loved the speaker!
+24,Cultural Night,1,3,1,3,Yes,Very informative.
+25,Workshop,3,2,3,1,No,Could be better organized.
+26,Sports Meet,4,5,1,4,Yes,Loved the speaker!
+27,Workshop,3,1,3,2,No,Very informative.
+28,Guest Lecture,3,1,4,2,No,Could be better organized.
+29,Guest Lecture,4,3,2,4,No,Too crowded.
+30,Cultural Night,3,5,2,4,No,Loved the speaker!
+31,Cultural Night,3,3,5,3,No,Too crowded.
+32,Cultural Night,3,5,1,5,No,Great event!
+33,Tech Fest,2,2,3,1,No,Not satisfied.
+34,Cultural Night,4,1,3,2,Yes,Could be better organized.
+35,Workshop,4,4,4,3,Yes,Not satisfied.
+36,Workshop,4,2,4,2,No,Too crowded.
+37,Sports Meet,3,5,1,3,Yes,Loved the speaker!
+38,Sports Meet,5,1,3,1,No,Average experience.
+39,Workshop,5,4,5,5,Yes,Very informative.
+40,Guest Lecture,5,3,3,2,No,Very informative.
+41,Tech Fest,2,4,3,4,No,Could be better organized.
+42,Guest Lecture,2,1,5,4,No,Not satisfied.
+43,Workshop,3,5,1,3,Yes,Very informative.
+44,Cultural Night,4,5,4,4,No,Average experience.
+45,Guest Lecture,2,4,3,4,Yes,Loved the speaker!
+46,Workshop,2,2,3,4,Yes,Very informative.
+47,Sports Meet,1,5,3,3,No,Could be better organized.
+48,Workshop,3,3,1,4,Yes,Average experience.
+49,Cultural Night,5,4,1,2,No,Too crowded.
+50,Cultural Night,1,1,2,1,No,Average experience.
+51,Workshop,3,4,2,5,No,Average experience.
+52,Cultural Night,1,4,3,5,No,Too crowded.
+53,Guest Lecture,4,3,1,3,No,Loved the speaker!
+54,Guest Lecture,5,3,4,3,No,Average experience.
+55,Workshop,3,3,2,3,Yes,Too crowded.
+56,Tech Fest,1,5,3,5,No,Loved the speaker!
+57,Tech Fest,2,2,1,3,Yes,Loved the speaker!
+58,Cultural Night,1,1,4,5,Yes,Too crowded.
+59,Sports Meet,4,4,5,5,No,Very informative.
+60,Cultural Night,4,4,5,1,Yes,Could be better organized.
+61,Tech Fest,2,4,4,5,No,Could be better organized.
+62,Workshop,1,2,3,2,No,Too crowded.
+63,Tech Fest,4,1,1,4,No,Loved the speaker!
+64,Workshop,2,2,4,4,No,Not satisfied.
+65,Workshop,3,3,5,5,Yes,Not satisfied.
+66,Sports Meet,3,5,2,2,Yes,Too crowded.
+67,Tech Fest,1,5,3,3,Yes,Too crowded.
+68,Tech Fest,1,4,3,3,No,Could be better organized.
+69,Sports Meet,1,4,2,4,No,Not satisfied.
+70,Workshop,5,5,5,5,No,Not satisfied.
+71,Sports Meet,1,5,4,1,Yes,Loved the speaker!
+72,Workshop,2,4,2,1,No,Loved the speaker!
+73,Sports Meet,2,5,3,2,Yes,Great event!
+74,Guest Lecture,1,2,4,5,No,Too crowded.
+75,Tech Fest,3,1,4,2,No,Very informative.
+76,Workshop,1,4,1,4,No,Very informative.
+77,Sports Meet,3,5,1,1,No,Too crowded.
+78,Workshop,2,2,5,1,No,Average experience.
+79,Cultural Night,2,5,3,2,No,Not satisfied.
+80,Guest Lecture,5,1,5,4,No,Too crowded.
+81,Guest Lecture,1,3,4,5,No,Great event!
+82,Cultural Night,1,1,2,1,Yes,Could be better organized.
+83,Workshop,3,5,4,5,No,Too crowded.
+84,Workshop,3,1,2,1,Yes,Very informative.
+85,Guest Lecture,4,5,3,1,Yes,Average experience.
+86,Guest Lecture,1,4,5,4,No,Average experience.
+87,Cultural Night,3,4,4,5,Yes,Could be better organized.
+88,Workshop,3,4,4,5,Yes,Average experience.
+89,Workshop,2,4,3,3,Yes,Not satisfied.
+90,Sports Meet,5,3,3,2,Yes,Average experience.
+91,Workshop,5,5,1,1,Yes,Could be better organized.
+92,Tech Fest,4,5,3,3,No,Great event!
+93,Workshop,3,1,5,5,No,Could be better organized.
+94,Guest Lecture,2,2,4,2,No,Too crowded.
+95,Workshop,2,2,2,4,Yes,Too crowded.
+96,Cultural Night,5,4,1,5,No,Average experience.
+97,Tech Fest,3,1,4,4,No,Very informative.
+98,Tech Fest,5,3,5,1,No,Too crowded.
+99,Tech Fest,1,4,5,4,Yes,Not satisfied.
+100,Sports Meet,1,5,4,1,Yes,Loved the speaker!
