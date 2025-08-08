@@ -34,38 +34,4 @@ Analyzing feedback from college events to generate actionable insights using Nat
 <li>☁️Word Cloud Summarizes Student Comments</li>
 </ul>
 <hr>
-<h2>🛠️ Libraries Used</h2>
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: left;">
-    <thead>
-        <tr>
-            <th>Tool / Library</th>
-            <th>Purpose</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>pandas</td>
-            <td>Data cleaning &amp; manipulation</td>
-        </tr>
-        <tr>
-            <td>seaborn, matplotlib, plotly</td>
-            <td>Data visualizations</td>
-        </tr>
-        <tr>
-            <td>TextBlob</td>
-            <td>Sentiment analysis</td>
-        </tr>
-        <tr>
-            <td>LDA Topic Modeling</td>
-            <td>Extracting hidden themes</td>
-        </tr>
-        <tr>
-            <td>WordCloud</td>
-            <td>Visualizing frequent terms</td>
-        </tr>
-        <tr>
-            <td>Pie Chart Analysis</td>
-            <td>Visualizing satisfaction levels</td>
-        </tr>
-    </tbody>
-</table>
+
